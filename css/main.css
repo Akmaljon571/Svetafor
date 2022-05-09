@@ -1,0 +1,45 @@
+body{
+    background-color:blue;
+}
+
+.list{
+    margin: 0 auto;
+    padding: 20px;
+    width: 100px;
+    height: 380px;
+    border: none;
+    border-radius:10px ;
+    background-color: #5e5e5e;
+}
+
+.qizil{
+    border-radius:50%;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    margin-top: 10px;
+}
+.sariq{
+    border-radius:50%;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    margin-top: 140px;
+}
+.yashil{
+    border-radius:50%;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    margin-top: 270px;
+}
+
+.stop{
+    background-color:darkgrey;
+}
+.stop1{
+    background-color: darkgrey;
+}
